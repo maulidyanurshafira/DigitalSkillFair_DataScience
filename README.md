@@ -1,5 +1,5 @@
 # DigitalSkillFair_DataScience
-Final Project for Digital Skill Fair by Dibimbing.
+Final Project of Digital Skill Fair Bootcamp by Dibimbing.
 
 ## Application of Decision Tree Algorithm for Iris Flowers Classification 
 The Iris dataset comprises 150 samples of iris flowers from three distinct species: Setosa, Versicolor, and Virginica.
